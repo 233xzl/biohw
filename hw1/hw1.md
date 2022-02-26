@@ -1,9 +1,4 @@
-<style>
-pre {
-  white-space: pre !important;
-  overflow-y: scroll !important;
-}
-</style>
+
 # 第一次作业
 
 ## （1）
